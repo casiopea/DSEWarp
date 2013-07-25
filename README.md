@@ -2,10 +2,13 @@
 
 Version 0.1.0 - 2013/07/23
 
-## About DSE Warp
+## About DSE Warp for EWD Lite
 
 %DSEWARP is System Management Utilitie that provides access to dumping the database file header.  
 See : http://tinco.pair.com/bhaskar/gtm/doc/books/pg/UNIX_manual/ch10s09.html#dsewrap  
+
+## Sample preView
+![DSE Warp for EWD Lite Browse](./exsample_preView.png)
 
 ## Environments:
  * OS : Ubuntu 12.04 or other Linux (eg. Red Hat, CentOS, etc)
